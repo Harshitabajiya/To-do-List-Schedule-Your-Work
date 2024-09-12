@@ -16,7 +16,6 @@ Explore the various functionalities of the To-Do List Project with ease. Here ar
 
 ![Screenshot (362)](https://github.com/Pawan2030/To-do-List-Schedule-Your-Work/assets/136910101/2de13000-d3d7-40b8-945a-da4d17739129)
 
-```bash
 # Create a new task
 $ todo create "Finish coding assignment"
 
